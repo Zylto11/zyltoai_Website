@@ -85,7 +85,7 @@ const AboutSection = () => {
           <Button
             variant="outline"
             className="flex items-center gap-2 hover:bg-purple-50 dark:hover:bg-gray-800"
-            onClick={() => window.open('mailto:john@example.com')}
+            onClick={() => window.open('admin@zyltoai.xyz')}
           >
             <Mail className="h-4 w-4" />
             Email
