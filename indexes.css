@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/*Note To self: update background colour to .png as recource instead of solid colour. */ 
+{/*Note To self: update background colour to .png as recource instead of solid colour. */}
 @layer base {
   :root {
     --background: 0 0% 100%;
