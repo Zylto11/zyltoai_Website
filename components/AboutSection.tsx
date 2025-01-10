@@ -113,9 +113,7 @@ const AboutSection = () => {
           <div className="border-t pt-4">
             <h3 className="font-semibold mb-2">Recent Updates</h3>
             <ul className="list-disc list-inside space-y-1">
-              <li>Added dark mode support - April 2024</li>
-              <li>Updated project descriptions - April 2024</li>
-              <li>Implemented responsive design - March 2024</li>
+              <li>Website Last Updated on Jan 9 2025</li>
             </ul>
           </div>
           <div className="text-center mt-4 pt-4 border-t">
