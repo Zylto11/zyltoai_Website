@@ -86,7 +86,7 @@ Here is a quick overview of the folder structure:
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
-
+*subject to change*, last effective on 2026.
 ---
 
 ## Troubleshooting
